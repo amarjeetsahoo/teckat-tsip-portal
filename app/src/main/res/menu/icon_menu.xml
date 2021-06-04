@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <group
+            android:id="@+id/grp1">
+            <item
+                android:id="@+id/menu_latesttrainings"
+                android:title="Latest Trainings"
+                android:icon="@drawable/ic_baseline_card_travel_24"/>
+            <item
+                android:id="@+id/menu_tsipreg"
+                android:icon="@drawable/ic_baseline_person_add_24"
+                android:title="T-SIP Registration"/>
+            <item
+                android:id="@+id/menu_faq"
+                android:icon="@drawable/ic_baseline_question_answer_24"
+                android:title="FAQ" />
+        </group>
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/menu_contact"
+            android:title="Contact Us"
+            android:icon="@drawable/ic_baseline_contact_support_24"/>
+        <item
+            android:id="@+id/menu_policy"
+            android:icon="@drawable/ic_baseline_https_24"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/menu_logout"
+            android:title="Log Out"
+            android:icon="@drawable/ic_baseline_mobile_friendly_24"/>
+    </group>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567475800184",
+    "firebase_url": "https://tsip-portal.firebaseio.com",
+    "project_id": "tsip-portal",
+    "storage_bucket": "tsip-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567475800184:android:2da5386609df0ab703058d",
+        "android_client_info": {
+          "package_name": "com.amarjeet.android.teckatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567475800184-1pcjlbnioprq0ascvrh9r1p3c7umn4ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarjeet.android.teckatproject",
+            "certificate_hash": "e669e6e7e4451c793c99f558d38a4816c8a8a18c"
+          }
+        },
+        {
+          "client_id": "567475800184-1ko1kuk24m66d2rs0tknvgk4kg0fjtia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1xLkZPuvsNC1Im6aCwuOHTPoshvRRw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567475800184-1ko1kuk24m66d2rs0tknvgk4kg0fjtia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

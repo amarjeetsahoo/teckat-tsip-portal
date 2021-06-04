@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635323531604",
+    "firebase_url": "https://teckatproject-5e49f.firebaseio.com",
+    "project_id": "teckatproject-5e49f",
+    "storage_bucket": "teckatproject-5e49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635323531604:android:210d62d28aae12753e88c1",
+        "android_client_info": {
+          "package_name": "com.amarjeet.android.teckatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635323531604-hca3t82m0at5tde0qs8lf1qisbs2tuvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarjeet.android.teckatproject",
+            "certificate_hash": "e669e6e7e4451c793c99f558d38a4816c8a8a18c"
+          }
+        },
+        {
+          "client_id": "635323531604-a15lpfsoj97o2ikss9senp21gjbnutsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfws-JHmEK2F_d7qkin7YuIMLRtX3JmbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635323531604-a15lpfsoj97o2ikss9senp21gjbnutsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
